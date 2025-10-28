@@ -1,0 +1,28 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jean-Philippe Vert , PhD
+N:Vert;Jean-Philippe;;;\, PhD
+item1.EMAIL;TYPE=INTERNET:jp@bioptimus.com
+item1.X-ABLabel:
+item2.TEL:+33 6 50 87 65 31
+item2.X-ABLabel:
+item3.ADR:;86 rue Notre Dame de Nazareth;Bioptimus;Paris;;75003;FR;Bioptimu
+ s\n86 rue Notre Dame de Nazareth\nParis\n75003\nFR
+item3.X-ABLabel:
+ORG:Bioptimus
+TITLE:Co-founder and CEO
+item4.URL:https\://jpvert.github.io/
+item4.X-ABLabel:Homepage
+item5.URL:https\://wa.me/33650876531
+item5.X-ABLabel:Whatsapp
+item6.URL:https\://www.linkedin.com/in/djipay/
+item6.X-ABLabel:LinkedIn
+item7.URL:https\://x.com/jeanphi_vert
+item7.X-ABLabel:X
+item8.URL:https\://scholar.google.com/citations?user=pqpxh7IAAAAJ&hl=fr&oi=
+ ao
+item8.X-ABLabel:Scholar
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzGkNRNT8CaHIvIQwhlJhS
+ cxyNZhDd_6myhZxY8_5HQUuxUkoE1o
+CATEGORIES:myContacts
+END:VCARD
