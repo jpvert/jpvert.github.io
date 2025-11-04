@@ -1,8 +1,8 @@
 var addressPoints = [
   [
     "Paris, France",
-    48.8588897,
-    2.320041
+    48.8534951,
+    2.3483915
   ],
   [
     "Ascona, Switzerland",
@@ -108,6 +108,11 @@ var addressPoints = [
     "Chania, Greece",
     35.5120831,
     24.0191544
+  ],
+  [
+    "Aspen, USA",
+    39.1911128,
+    -106.82356
   ],
   [
     "Fontainebleau, France",
@@ -236,8 +241,8 @@ var addressPoints = [
   ],
   [
     "Berlin, Germany",
-    52.510885,
-    13.3989367
+    52.5173885,
+    13.3951309
   ],
   [
     "Shanghai, P.R. China",
@@ -311,8 +316,8 @@ var addressPoints = [
   ],
   [
     "Toulouse, France.",
-    43.6044622,
-    1.4442469
+    43.6044638,
+    1.4442433
   ],
   [
     "Reykjavik Iceland",
@@ -361,8 +366,8 @@ var addressPoints = [
   ],
   [
     "Paris, France.",
-    48.8588897,
-    2.320041
+    48.8534951,
+    2.3483915
   ],
   [
     "Alicante, Spain",
@@ -406,8 +411,8 @@ var addressPoints = [
   ],
   [
     "Toulouse, France",
-    43.6044622,
-    1.4442469
+    43.6044638,
+    1.4442433
   ],
   [
     "Seattle, USA",
@@ -466,8 +471,8 @@ var addressPoints = [
   ],
   [
     "London, UK",
-    51.4893335,
-    -0.1440551
+    51.5074456,
+    -0.1277653
   ],
   [
     "Aarhus, Denmark",
@@ -525,6 +530,11 @@ var addressPoints = [
     1.0747165
   ],
   [
+    "Copenhagen, Denmark",
+    55.6867243,
+    12.5700724
+  ],
+  [
     "San Diego, USA",
     32.7174202,
     -117.162772
@@ -578,6 +588,11 @@ var addressPoints = [
     "Obernai, France",
     48.4623358,
     7.4817123
+  ],
+  [
+    "Barcelona, Spain",
+    41.3825802,
+    2.177073
   ],
   [
     "Nancy, France",
